@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jacokok/googlefinanceapi/issues"
   },
-  "homepage": "https://github.com/jacokok/googlefinanceapi#readme"
+  "homepage": "https://github.com/jacokok/googlefinanceapi#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
