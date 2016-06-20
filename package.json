@@ -2,7 +2,7 @@
   "name": "googlefinanceapi",
   "version": "1.0.0",
   "description": "Google Finance API",
-  "main": "index.js",
+  "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
