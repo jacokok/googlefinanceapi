@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/jacokok/googlefinanceapi#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "cheerio": "^0.20.0",
+    "express": "^4.14.0",
+    "request": "^2.72.0"
   }
 }
